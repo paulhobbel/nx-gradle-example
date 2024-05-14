@@ -1,0 +1,3 @@
+rootProject.name = 'nx-gradle-example'
+
+include 'application'

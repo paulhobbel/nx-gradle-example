@@ -1,0 +1,9 @@
+[versions]
+spring-boot = "3.2.2"
+spring-dependency-management = "1.1.4"
+
+[libraries]
+
+[plugins]
+springframework-boot = { id = "org.springframework.boot", version.ref = "spring-boot" }
+spring-dependencyManagement = { id = "io.spring.dependency-management", version.ref = "spring-dependency-management" }
